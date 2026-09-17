@@ -1,7 +1,7 @@
 <h1 align="center">Professional Mail Server</h1>
 
 <p align="center">
-  ![mail server](https://github.com/xoceunder/Professional-Mail-Server/blob/main/e3338782e87731f603cedd6c3eb488d9.png?raw=true)
+  ![mail server](https://raw.githubusercontent.com/xoceunder/Professional-Mail-Server/refs/heads/main/e3338782e87731f603cedd6c3eb488d9.png)
 </p>
 
 ## 🏁 Getting Started
