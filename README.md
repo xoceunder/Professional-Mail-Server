@@ -1,7 +1,7 @@
 <h1 align="center">Professional Mail Server</h1>
 
- ![image alt](https://github.com/xoceunder/Professional-Mail-Server/blob/2829bb999ff45c334773188aabcaa51393f4e52c/e3338782e87731f603cedd6c3eb488d9.png)
- 
+![image alt](./e3338782e87731f603cedd6c3eb488d9.png)
+
 ## 🏁 Getting Started
 
 Transform your VPS or SERVER into a professionally configured mail server capable of sending and receiving messages using your own domain.
