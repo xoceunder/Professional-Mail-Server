@@ -1,7 +1,7 @@
 <h1 align="center">Professional Mail Server</h1>
 
 <p align="center">
-  <img src="https://www.apprebrands.com/media/products/e3338782e87731f603cedd6c3eb488d9.png" alt="animated" />
+  ![mail server](./e3338782e87731f603cedd6c3eb488d9.png)
 </p>
 
 ## 🏁 Getting Started
